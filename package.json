@@ -1,0 +1,20 @@
+{
+  "name": "redux-jquery-vn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "gitbook build",
+    "serve": "gitbook serve"
+  },
+  "author": "Masaya Kamakura <kamakura.masaya@gmail.com> (https://github.com/mkamakura)",
+  "license": "MIT",
+  "devDependencies": {
+    "gitbook": "2.6.6",
+    "gitbook-cli": "1.0.1",
+    "gitbook-plugin-include-codeblock": "1.5.0"
+  },
+  "engines": {
+    "node": ">=5.0.0"
+  }
+}
