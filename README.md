@@ -2,6 +2,7 @@
 
 ## Overview
 - Tuyển tập sample sử dụng Redux+jQuery
+- ES2015(babel)
 - **React thì không sử dụng**
 
 ## Phương pháp tiến hành của sample
