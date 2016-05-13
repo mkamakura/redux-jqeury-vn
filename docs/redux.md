@@ -90,3 +90,4 @@ Trong `reducer` cần phải làm những việc dưới đây
 - Là cơ chế có thể bổ sung xử lý tùy ý vào trước hay sau khi `dispatch`
 - Export log trạng thái của `state` trước và sau khi `dispatch`
 - Vì Middleware đã implement có chủ ý  đã được đưa lên npm, nên sử dụng tùy ý  https://www.npmjs.com/search?q=redux%20middleware
+https://github.com/xgrommx/awesome-redux
